@@ -1,0 +1,12 @@
+*.pyc
+*.tif
+*.png
+*.PNG
+*.jpeg
+*.mp4
+*.jpg
+*.pkl
+*.kml
+*checkpoint.ipynb
+*.csv
+demo/*
