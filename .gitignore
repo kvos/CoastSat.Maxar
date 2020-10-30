@@ -9,6 +9,7 @@
 *.kml
 *checkpoint.ipynb
 *.csv
+*.geojson
 order1/*
 order2/*
 order3/*
